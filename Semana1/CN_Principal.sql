@@ -1,0 +1,1 @@
+CREATE USER C##Empleados IDENTIFIED BY contrasena;
